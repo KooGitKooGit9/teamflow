@@ -1,0 +1,6 @@
+teamflow-data.json
+*.log
+cloudflared
+.env
+node_modules/
+.DS_Store
